@@ -20,9 +20,9 @@ const photo =
 document.getElementById("memoryPhoto");
 
 const birthdayMessage =
-`Chúc mừng sinh nhật 🥳
-Mong rằng tuổi 21 sẽ mang đến cho anh nhiều niềm vui, sức khỏe, thành công và những điều tuyệt vời nhất!
-Em làm cái web này vì muốn là người đầu tiên chúc mừng sinh nhật người đẹp :3
+`Happy birthday !!! 🥳
+Mong rằng tuổi 22 sẽ mang đến cho anh nhiều niềm vui, sức khỏe, thành công và những điều tuyệt vời nhất!
+Em làm cái web này vì muốn chúc mừng sinh nhật người đẹp :3
 Hy vọng món quà nhỏ này sẽ khiến anh vui ạ! 🎂✨ ~ Have a nice day ~ `;
 
 function updateCountdown(){
